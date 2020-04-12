@@ -3,7 +3,6 @@ layout : single
 title : "Strassen Algorithm"
 date : 2020-04-12
 categories : jekyll update
-use_math : true
 ---
 
 # 슈트라센 알고리즘
