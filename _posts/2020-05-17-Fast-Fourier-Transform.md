@@ -140,7 +140,7 @@ $N=2$까지 분할을 하니 식이 간단하게 표현됩니다.
 
 $N=4$인 $X(k)$를 $P(k)$와 $Q(k)$로 분할하여 변환하는 흐름도는 대략 이렇습니다.
 
-![Butterfly](C:\Users\이상민\my-awesome-site\Butterfly.jpg)
+![Butterfly](C:\Users\이상민\my-awesome-site\image\Butterfly.jpg)
 
 화살표끼리 더하면 되고, -1이 써있는 부분은 -1을 곱해서 더하면 됩니다.
 
