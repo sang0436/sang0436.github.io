@@ -2,7 +2,7 @@
 layout : single
 title : "Greedy Algorithm Questions"
 date : 2020-04-23
-categories : ALGORITHM COLLEGE
+categories : Algorithm College
 use_math : true
 ---
 
