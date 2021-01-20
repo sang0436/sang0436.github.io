@@ -2,7 +2,7 @@
 layout : single
 title : "London Travel"
 date : 2020-04-02
-categories : jekyll update
+categories : Travel
 ---
 
 # 20.01.16 ~ 20.01.19 런던 여행기
