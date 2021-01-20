@@ -2,7 +2,7 @@
 layout : single
 title : "Strassen Algorithm"
 date : 2020-04-12
-categories : jekyll update
+categories : ALGORITHM COLLEGE
 use_math : true
 ---
 
