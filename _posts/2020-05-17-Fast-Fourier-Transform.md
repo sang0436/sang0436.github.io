@@ -2,7 +2,7 @@
 layout : single
 title : "Fast Fourier Transform"
 date : 2020-05-17
-categories : jekyll update
+categories : ALGORITHM COLLEGE
 use_math : true
 ---
 
