@@ -2,7 +2,7 @@
 layout : single
 title : "Strassen Algorithm"
 date : 2020-04-12
-categories : ALGORITHM COLLEGE
+categories : Algorithm College
 use_math : true
 ---
 
