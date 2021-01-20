@@ -2,7 +2,7 @@
 layout : single
 title : "Fast Fourier Transform"
 date : 2020-05-17
-categories : ALGORITHM COLLEGE
+categories : Algorithm College
 use_math : true
 ---
 
