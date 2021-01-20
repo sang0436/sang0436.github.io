@@ -2,7 +2,7 @@
 layout : single
 title : "Greedy Algorithm Questions"
 date : 2020-04-23
-categories : jekyll update
+categories : ALGORITHM COLLEGE
 use_math : true
 ---
 
