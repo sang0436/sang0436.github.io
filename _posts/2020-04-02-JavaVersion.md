@@ -2,7 +2,7 @@
 layout : single
 title : "Java Version"
 date : 2020-04-02
-categories : jekyll update
+categories : JAVA
 ---
 
 # JAVA버전에 따른 기능의 차이점
