@@ -46,7 +46,7 @@ date : "2021-01-31"
 
   그동안 메인메소드에서 static 키워드가 항상 있었던 것을 볼 수 있다. 
 
-  메인메소드에서 해당 클래스의 필드, 메소드를 호출할 때 항상 인스턴스화 시킨 이유를 여기서 알 수 있다.
+  메인메소드에서 특정 클래스의 필드, 메소드를 호출할 때 항상 인스턴스화 시킨 이유를 여기서 알 수 있다.
 
 * static키워드가 붙은 클래스 변수는 값을 공유한다. ---(6)
 
@@ -71,12 +71,12 @@ public class ScopeAndStatic {
     public void scopeTest2(int value2) {
         System.out.println(globalScope);
 //      System.out.println(localScope); 다른 메소드의 지역변수는 사용 불가
-//		System.out.println(value); 해당 메소드의 매개변수가 아니므로 사용 불가
+//		  System.out.println(value); 해당 메소드의 매개변수가 아니므로 사용 불가
         System.out.println(value2);
     }
     
     public static void main(String[] args) { //메인메소드는 static메소드!
-//		System.out.println(globalScope); 인스턴스변수는 static메소드에서 인스턴스화 후 실행해야만 함! (5)
+//		  System.out.println(globalScope); 인스턴스변수는 static메소드에서 인스턴스화 후 실행해야만 함! (5)
         System.out.println(staticVal); //클래스변수는 인스턴스화 하지 않는다 (4)
         
         ScopeAndStatic a = new ScopeAndStatic(); //객체 생성
