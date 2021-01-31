@@ -70,13 +70,13 @@ public class ScopeAndStatic {
     
     public void scopeTest2(int value2) {
         System.out.println(globalScope);
-//      System.out.println(localScope); 다른 메소드의 지역변수는 사용 불가
-//		  System.out.println(value); 해당 메소드의 매개변수가 아니므로 사용 불가
+        //System.out.println(localScope); 다른 메소드의 지역변수는 사용 불가
+        //System.out.println(value); 해당 메소드의 매개변수가 아니므로 사용 불가
         System.out.println(value2);
     }
     
     public static void main(String[] args) { //메인메소드는 static메소드!
-//		  System.out.println(globalScope); 인스턴스변수는 static메소드에서 인스턴스화 후 실행해야만 함! (5)
+        //System.out.println(globalScope); 인스턴스변수는 static메소드에서 인스턴스화 후 실행해야만 함! (5)
         System.out.println(staticVal); //클래스변수는 인스턴스화 하지 않는다 (4)
         
         ScopeAndStatic a = new ScopeAndStatic(); //객체 생성
